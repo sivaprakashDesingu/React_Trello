@@ -1,5 +1,5 @@
 # React_Trello 
-# Abount
+# About
     Trello board in React JS
 # Installation
 
